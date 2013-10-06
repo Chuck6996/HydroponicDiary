@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.Composition;
-using System.ComponentModel.Composition.Hosting;
+﻿using System.ComponentModel.Composition.Hosting;
 using System.Windows;
 
 namespace HydropnicDiary.Presentation
